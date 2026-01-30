@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Information</title>
+</head>
+<body>
+
+    <p>Name: Mathew L Luna</p>
+    <p>Address: Ibabao Agus LLC</p>
+    <p>Gender: Male</p>
+    <p>Description of Self: A person who is always willing to learn and listen to other people.</p>
+
+    <h6>STUDY LOAD:</h6>
+
+    <h6>WEB – WEB DEVELOPMENT – 7:00–8:00 AM – Mr. Empaces</h6>
+    <h6>PROG 2 – COMPUTER PROGRAMMING 2 – 8:00–9:00 AM – Ms. Eds</h6>
+    <h6>BASIC ELECT – BASIC ELECTRONICS – 9:00–10:00 AM – Mr. Comayras</h6>
+    <h6>NSTP 2 – NATIONAL SERVICE TRAINING PROGRAM 2 – 12:00–1:00 PM – Mr. L. Paquibot</h6>
+    <h6>PATHFIT 2 – EXERCISE-BASED FITNESS ACTIVITIES – 1:00–2:00 PM – Mr. J. Paquibot</h6>
+    <h6>GE 4 – PURPOSIVE COMMUNICATION – 2:00–3:00 PM – Ms. Blasco</h6>
+    <h6>FIL 2 – PANITIKAN NG PILIPINAS – 10:00–11:30 AM – Mr. Ando</h6>
+    <h6>DISCRETE 2 – DISCRETE STRUCTURES – 8:30–10:00 AM – Mr. Dinoy</h6>
+    <h6>GE 3 – READINGS IN PHILIPPINE HISTORY – 7:00–8:30 AM – Ms. Imoc</h6>
+
+</body>
+</html>
